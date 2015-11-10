@@ -1,0 +1,6 @@
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ArraySortTest\bin\Debug\ArraySortTest.exe.config
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ArraySortTest\bin\Debug\ArraySortTest.exe
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ArraySortTest\bin\Debug\ArraySortTest.pdb
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ArraySortTest\obj\Debug\MirKvartir.csprojResolveAssemblyReference.cache
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ArraySortTest\obj\Debug\ArraySortTest.exe
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ArraySortTest\obj\Debug\ArraySortTest.pdb

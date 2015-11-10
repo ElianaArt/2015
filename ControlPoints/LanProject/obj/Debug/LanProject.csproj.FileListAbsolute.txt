@@ -1,0 +1,12 @@
+D:\_KURS\My_folder\ConsoleApplication1\LanProject\bin\Debug\LanProject.exe.config
+D:\_KURS\My_folder\ConsoleApplication1\LanProject\bin\Debug\LanProject.exe
+D:\_KURS\My_folder\ConsoleApplication1\LanProject\bin\Debug\LanProject.pdb
+D:\_KURS\My_folder\ConsoleApplication1\LanProject\obj\Debug\LanProject.exe
+D:\_KURS\My_folder\ConsoleApplication1\LanProject\obj\Debug\LanProject.pdb
+D:\_KURS\My_folder\ConsoleApplication1\LanProject\obj\Debug\LanProject.csprojResolveAssemblyReference.cache
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ControlPoints\LanProject\bin\Debug\LanProject.exe.config
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ControlPoints\LanProject\obj\Debug\LanProject.exe
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ControlPoints\LanProject\obj\Debug\LanProject.pdb
+D:\_KURS\My_folder\Tests\CodeFolder\ControlPoints\LanProject\bin\Debug\LanProject.exe.config
+D:\_KURS\My_folder\Tests\CodeFolder\ControlPoints\LanProject\obj\Debug\LanProject.exe
+D:\_KURS\My_folder\Tests\CodeFolder\ControlPoints\LanProject\obj\Debug\LanProject.pdb

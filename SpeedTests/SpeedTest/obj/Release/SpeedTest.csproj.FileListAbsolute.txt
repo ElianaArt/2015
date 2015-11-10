@@ -1,0 +1,13 @@
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\bin\Release\SpeedTest.exe.config
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\bin\Release\SpeedTest.exe
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\bin\Release\SpeedTest.pdb
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\obj\Release\SpeedTest.csprojResolveAssemblyReference.cache
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\obj\Release\MainWindow.baml
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\obj\Release\MainWindow.g.cs
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\obj\Release\App.g.cs
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\obj\Release\SpeedTest_MarkupCompile.cache
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\obj\Release\SpeedTest.g.resources
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\obj\Release\SpeedTest.Properties.Resources.resources
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\obj\Release\SpeedTest.csproj.GenerateResource.Cache
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\obj\Release\SpeedTest.exe
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\obj\Release\SpeedTest.pdb

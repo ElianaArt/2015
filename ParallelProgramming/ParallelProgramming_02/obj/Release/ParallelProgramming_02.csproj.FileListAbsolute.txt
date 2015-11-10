@@ -1,0 +1,1 @@
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ParallelProgramming_02\obj\Release\ParallelProgramming_02.csprojResolveAssemblyReference.cache

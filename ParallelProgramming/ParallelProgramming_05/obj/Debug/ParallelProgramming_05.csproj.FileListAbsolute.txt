@@ -1,0 +1,6 @@
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ParallelProgramming_05\bin\Debug\ParallelProgramming_05.exe.config
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ParallelProgramming_05\bin\Debug\ParallelProgramming_05.exe
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ParallelProgramming_05\bin\Debug\ParallelProgramming_05.pdb
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ParallelProgramming_05\obj\Debug\ParallelProgramming_05.csprojResolveAssemblyReference.cache
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ParallelProgramming_05\obj\Debug\ParallelProgramming_05.exe
+D:\_KURS\My_folder\Tests\ParallelProgramming01\ParallelProgramming_05\obj\Debug\ParallelProgramming_05.pdb

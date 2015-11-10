@@ -1,0 +1,6 @@
+D:\_KURS\My_folder\Tests\ParallelProgramming01\RefOutSolution\bin\Debug\RefOutSolution.exe.config
+D:\_KURS\My_folder\Tests\ParallelProgramming01\RefOutSolution\bin\Debug\RefOutSolution.exe
+D:\_KURS\My_folder\Tests\ParallelProgramming01\RefOutSolution\bin\Debug\RefOutSolution.pdb
+D:\_KURS\My_folder\Tests\ParallelProgramming01\RefOutSolution\obj\Debug\RefOutSolution.csprojResolveAssemblyReference.cache
+D:\_KURS\My_folder\Tests\ParallelProgramming01\RefOutSolution\obj\Debug\RefOutSolution.exe
+D:\_KURS\My_folder\Tests\ParallelProgramming01\RefOutSolution\obj\Debug\RefOutSolution.pdb

@@ -1,0 +1,6 @@
+D:\_KURS\My_folder\Tests\ParallelProgramming01\CustomEventTest\bin\Debug\CustomEventTest.exe.config
+D:\_KURS\My_folder\Tests\ParallelProgramming01\CustomEventTest\bin\Debug\CustomEventTest.exe
+D:\_KURS\My_folder\Tests\ParallelProgramming01\CustomEventTest\bin\Debug\CustomEventTest.pdb
+D:\_KURS\My_folder\Tests\ParallelProgramming01\CustomEventTest\obj\Debug\CustomEventTest.csprojResolveAssemblyReference.cache
+D:\_KURS\My_folder\Tests\ParallelProgramming01\CustomEventTest\obj\Debug\CustomEventTest.exe
+D:\_KURS\My_folder\Tests\ParallelProgramming01\CustomEventTest\obj\Debug\CustomEventTest.pdb

@@ -1,0 +1,5 @@
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SemaphoreTest\bin\Release\SemaphoreTest.exe.config
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SemaphoreTest\bin\Release\SemaphoreTest.exe
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SemaphoreTest\bin\Release\SemaphoreTest.pdb
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SemaphoreTest\obj\Release\SemaphoreTest.exe
+D:\_KURS\My_folder\Tests\ParallelProgramming01\SemaphoreTest\obj\Release\SemaphoreTest.pdb
