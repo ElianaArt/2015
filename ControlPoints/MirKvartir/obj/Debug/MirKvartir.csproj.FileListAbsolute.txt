@@ -4,3 +4,9 @@ D:\_KURS\My_folder\Tests\ParallelProgramming01\ArraySortTest\bin\Debug\ArraySort
 D:\_KURS\My_folder\Tests\ParallelProgramming01\ArraySortTest\obj\Debug\MirKvartir.csprojResolveAssemblyReference.cache
 D:\_KURS\My_folder\Tests\ParallelProgramming01\ArraySortTest\obj\Debug\ArraySortTest.exe
 D:\_KURS\My_folder\Tests\ParallelProgramming01\ArraySortTest\obj\Debug\ArraySortTest.pdb
+D:\_KURS\Git\CodeFolder\ControlPoints\MirKvartir\bin\Debug\ArraySortTest.exe.config
+D:\_KURS\Git\CodeFolder\ControlPoints\MirKvartir\obj\Debug\ArraySortTest.exe
+D:\_KURS\Git\CodeFolder\ControlPoints\MirKvartir\obj\Debug\ArraySortTest.pdb
+D:\_KURS\Git\CodeFolder\ControlPoints\MirKvartir\bin\Debug\ArraySortTest.exe
+D:\_KURS\Git\CodeFolder\ControlPoints\MirKvartir\bin\Debug\ArraySortTest.pdb
+D:\_KURS\Git\CodeFolder\ControlPoints\MirKvartir\obj\Debug\MirKvartir.csprojResolveAssemblyReference.cache

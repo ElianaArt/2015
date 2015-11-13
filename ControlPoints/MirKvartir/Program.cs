@@ -76,7 +76,7 @@ namespace ArraySortTest
     //}
     #endregion
 
-    #region Программа проверки строки на наличие числа текущее + 1 List ( БЫСТРЕЕ!! 1 000 000 эл ) 120400 мс
+    #region Программа проверки строки на наличие числа текущее + 1 List ( БЫСТРЕЕ!! 1 000 000 эл ) 0.120400 мс
     //class Program
     //{
 
@@ -89,7 +89,7 @@ namespace ArraySortTest
     //        {
     //            mass.Add(Convert.ToUInt32(rnd.Next(100)));
     //        }
-           
+
     //        uint min = mass[0];
 
     //        Stopwatch sw = new Stopwatch();
@@ -174,6 +174,58 @@ namespace ArraySortTest
 
     //}
     #endregion
+
+    #region Программа проверки строки на наличие числа текущее + 1  0.00329
+    //class Program
+    //{
+
+    //    static void Main(string[] args)
+    //    {
+
+    //        List<uint> mass = new List<uint>();
+
+    //        int count = 1000000;
+    //        Random rnd = new Random();
+    //        for (int i = 0; i < count; i++)
+    //        {
+    //            mass.Add(Convert.ToUInt32(rnd.Next(100)));
+    //        }
+
+           
+
+    //        Stopwatch sw = new Stopwatch();
+    //        sw.Start();
+    //        try
+    //        {
+    //            foreach (uint VARIABLE in mass)
+    //            {
+
+                
+    //                if(!(mass.Contains(VARIABLE+1) && mass.Contains(VARIABLE - 1)))
+    //                {
+    //                    Console.WriteLine("F ");
+    //                    return;
+    //                }
+                  
+    //            }
+
+    //        }
+             
+    //        finally
+    //        {
+    //            Console.WriteLine();
+    //            Console.WriteLine(sw.Elapsed);
+    //            sw.Stop();
+    //            Console.ReadLine();
+    //        }
+
+    //        Console.ReadLine();
+    //    }
+
+
+    //}
+    #endregion
+
 
     #region j = ?
     //class Program

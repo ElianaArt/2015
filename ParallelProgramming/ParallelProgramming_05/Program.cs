@@ -1,4 +1,4 @@
-п»їusing System;
+using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Data.SqlTypes;
@@ -35,7 +35,7 @@ namespace ParallelProgramming_05
 
         //    Parallel.Invoke(FuncOne, FuncTwo);
 
-        //    Action[] actions = new Action[4];
+        //    Action[] actions = new Action[4]; 
         //    actions[0] = new Action(() => Console.WriteLine("one"));
         //    actions[1] = new Action(() => Console.WriteLine("two"));
         //    actions[2] = new Action(() => Console.WriteLine("three"));
@@ -80,16 +80,16 @@ namespace ParallelProgramming_05
         #endregion
 
 
-        #region Parallel.For Рё Parallel.ForEach
+        #region Parallel.For и Parallel.ForEach
 
         //private static void Main(string[] args)
         //{
         //    //int[] data = new int[500];
         //    //int[] results = new int[500];
-        //    //// РџРѕСЃР»РµРґРѕРІР°С‚РµР»СЊРЅС‹Р№ С†РёРєР»
+        //    //// Последовательный цикл
         //    //for (int i = 0; i < data.Length; i++)
         //    //    data[i] = SomeWork(i);
-        //    //// РџР°СЂР°Р»Р»РµР»СЊРЅС‹Р№ С†РёРєР»
+        //    //// Параллельный цикл
         //    //Parallel.For(0, data.Length, i =>
         //    //{
         //    //    results[i] = SomeWork(data[i]);
@@ -122,10 +122,10 @@ namespace ParallelProgramming_05
         #endregion
 
 
-        #region Р Р°Р·РґРµР»РµРЅРёРµ РґР°РЅРЅС‹С…, РґРёРЅР°РјРёС‡РµСЃРєР°СЏ РґРµРєРѕРјРїР°Р·РёС†РёСЏ Partitioner.Create
+        #region Разделение данных, динамическая декомпазиция Partitioner.Create
         static void Main(string[] args)
         {
-            // РЎРїРёСЃРѕРє СЌР»РµРјРµРЅС‚РѕРІ
+            // Список элементов
             //List<string> list = new List<string> { "first", "second", "third", "four", "five" };
             //Parallel.ForEach(Partitioner.Create(list, true), s =>
             //{
@@ -137,7 +137,7 @@ namespace ParallelProgramming_05
         #endregion
 
 
-        #region РџР°РєРµС‚РЅР°СЏ РѕР±СЂР°Р±РѕС‚РєР° РёС‚РµСЂР°С†РёР№
+        #region Пакетная обработка итераций
         //static void Main(string[] args)
         //{
         //    const int N = 3;
@@ -146,16 +146,16 @@ namespace ParallelProgramming_05
         //    int sum = 0;
         //    Parallel.ForEach(
         //        Partitioner.Create(0, N),
-        //                        // РќР°С‡Р°Р»СЊРЅР°СЏ РёРЅРёС†РёР°Р»РёР·Р°С†РёСЏ
+        //                        // Начальная инициализация
         //        () => 0.0,
-        //                        // РћР±СЂР°Р±РѕС‚С‡РёРє С†РёРєР»Р°
+        //                        // Обработчик цикла
         //        (range, state, partial) =>
         //        {
         //            for (int i = range.Item1; i < range.Item2; i++)
         //                partial += ar[i];
         //            return partial;
         //        },
-        //                        // С„РёРЅР°Р»СЊРЅС‹Р№ СЌС‚Р°Рї
+        //                        // финальный этап
         //        partial => Interlocked.Add(ref sum, Convert.ToInt32(partial))
         //        );
         //    Console.WriteLine("Sum : {0}", sum);
