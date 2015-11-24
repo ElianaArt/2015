@@ -10,3 +10,5 @@ D:\_KURS\My_folder\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleAppl
 D:\_KURS\My_folder\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 D:\_KURS\My_folder\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 D:\_KURS\My_folder\ConsoleApplication1\ConsoleApplication1\obj\Debug\MindBox.csprojResolveAssemblyReference.cache
+D:\_KURS\Git\CodeFolder\ControlPoints\MindBox\obj\Debug\MindBox.csprojResolveAssemblyReference.cache
+D:\_KURS\Git\CodeFolder\ControlPoints\MindBox\obj\Debug\ConsoleApplication1.exe

@@ -3,3 +3,4 @@ D:\_KURS\My_folder\Tests\ParallelProgramming01\ParallelProgramming_04\bin\Debug\
 D:\_KURS\My_folder\Tests\ParallelProgramming01\ParallelProgramming_04\bin\Debug\ParallelProgramming_04.pdb
 D:\_KURS\My_folder\Tests\ParallelProgramming01\ParallelProgramming_04\obj\Debug\ParallelProgramming_04.exe
 D:\_KURS\My_folder\Tests\ParallelProgramming01\ParallelProgramming_04\obj\Debug\ParallelProgramming_04.pdb
+D:\_KURS\Git\CodeFolder\ParallelProgramming\ParallelProgramming_04\obj\Debug\ParallelProgramming_04.exe

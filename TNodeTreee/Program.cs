@@ -1,103 +1,61 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Policy;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace TNodeTreee
 {
     class Program
     {
+        /// <summary>
+        /// Связанный список, с возможностью обращения по индексу и сортировки
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
-            Node<Program> nodePro = new Node<Program>("a", new Node<Program>("c", new Node<Program>("b", new Node<Program>("d"))));
-            nodePro.Next = new Node<Program>("g", new Node<Program>("hello")); 
-            Console.WriteLine("nodePro: " + nodePro);
+            Node<Hendler> nodePro = new Node<Hendler>("apple");
+
+            nodePro.Add(new Node<Hendler>("wind", new Hendler(" cold"), new Node<Hendler>("12fg")));
+            nodePro.Add(new Node<Hendler>("snake"));
+            nodePro.Add(new Node<Hendler>("griraffe"));
+
             nodePro.Sort();
-            Console.WriteLine("nodePro: " + nodePro);
+
+
+            for (int i = 0; i < nodePro.Count; i++)
+            {
+                Console.WriteLine("nodePro[{0}] = {1}", i, nodePro[i].data);
+            }
+
+            nodePro[2].data = "HELLO WORLD";
+            Console.WriteLine("------------------");
+
+            for (int i = 0; i < nodePro.Count; i++)
+            {
+                Console.WriteLine("nodePro[{0}] = {1}", i, nodePro[i].data);
+            }
             Console.ReadLine();
         }
-    }
 
-    // linked list
-    public class Node<T> : INode<T>
-    {
-        public object data { get; set; }
-        public INode<T> Next { get; set; }
-
-        public Node(object data, Node<T> Next)
+        public class Hendler
         {
-            this.data = data;
-            this.Next = Next;
-        }
-        public Node(object value) : this(value, null)
-        {
+            public String data;
 
-        }
-
-        public override string ToString()
-        {
-            return data.ToString()+" " + ((Next != null) ? Next.ToString() : null);
-        }
-
-        //public int this[int index]
-        //{
-        //    set
-        //    {
-        //        arr[index] = value;
-        //    }
-
-        //    get
-        //    {
-        //        return arr[index];
-        //    }
-        //}
-
-    }
-
-    public interface INode<T>
-    {
-        object data { get; set; }
-        INode<T> Next { get; set; }
-        string ToString();
-    }
-
-    public static class NodeEtensions
-    {
-        public static INode<T> Sort<T>(this INode<T> Node)
-        {
-           // Console.WriteLine("Node.Next = " + Node.Next.data);
-            if (Node.Next != null)
+            public Hendler(string _data)
             {
-                Console.WriteLine("Node.Next = " + Node.Next.data);
-                if (CompareTo(Node) == 1)
-                    Swap(Node);
-
-                Node.Next.Sort();
+                data = _data;
             }
-            return Node;
         }
-
-        
-        public static int CompareTo<T>(INode<T> other)
-        {
-            if (other.data is String)
-            {
-                if (String.Compare(other.data.ToString(), other.Next.data.ToString()) == 1)
-                    return 1;
-                if (String.Compare(other.data.ToString(), other.Next.data.ToString()) == -1)
-                    return -1;
-            }
-            return 0;
-        }
-
-        public static INode<T> Swap<T>(INode<T> Node)
-        {
-            var temp = Node.Next.data;
-            Node.Next.data = Node.data;
-            Node.data = temp;
-            return Node;
-        }
+   
     }
+
+   
+   
+
+    
+
 }

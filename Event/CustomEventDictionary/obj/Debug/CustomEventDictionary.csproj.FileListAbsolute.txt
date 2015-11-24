@@ -1,1 +1,2 @@
 D:\_KURS\My_folder\Tests\ParallelProgramming01\CustomEventDictionary\bin\Debug\CustomEventDictionary.exe.config
+D:\_KURS\Git\CodeFolder\Event\CustomEventDictionary\obj\Debug\CustomEventDictionary.csprojResolveAssemblyReference.cache

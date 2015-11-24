@@ -13,3 +13,6 @@ D:\_KURS\My_folder\Tests\CodeFolder\ControlPoints\LanProject\obj\Debug\LanProjec
 D:\_KURS\Git\CodeFolder\ControlPoints\LanProject\bin\Debug\LanProject.exe.config
 D:\_KURS\Git\CodeFolder\ControlPoints\LanProject\obj\Debug\LanProject.exe
 D:\_KURS\Git\CodeFolder\ControlPoints\LanProject\obj\Debug\LanProject.pdb
+D:\_KURS\Git\CodeFolder\ControlPoints\LanProject\bin\Debug\LanProject.exe
+D:\_KURS\Git\CodeFolder\ControlPoints\LanProject\bin\Debug\LanProject.pdb
+D:\_KURS\Git\CodeFolder\ControlPoints\LanProject\obj\Debug\LanProject.csprojResolveAssemblyReference.cache

@@ -3,3 +3,8 @@ D:\_KURS\My_folder\Tests\ParallelProgramming01\ArrayListSpeedTest\bin\Debug\Arra
 D:\_KURS\My_folder\Tests\ParallelProgramming01\ArrayListSpeedTest\bin\Debug\ArrayListSpeedTest.pdb
 D:\_KURS\My_folder\Tests\ParallelProgramming01\ArrayListSpeedTest\obj\Debug\ArrayListSpeedTest.exe
 D:\_KURS\My_folder\Tests\ParallelProgramming01\ArrayListSpeedTest\obj\Debug\ArrayListSpeedTest.pdb
+D:\_KURS\Git\CodeFolder\SpeedTests\ArrayListSpeedTest\bin\Debug\ArrayListSpeedTest.exe.config
+D:\_KURS\Git\CodeFolder\SpeedTests\ArrayListSpeedTest\bin\Debug\ArrayListSpeedTest.exe
+D:\_KURS\Git\CodeFolder\SpeedTests\ArrayListSpeedTest\bin\Debug\ArrayListSpeedTest.pdb
+D:\_KURS\Git\CodeFolder\SpeedTests\ArrayListSpeedTest\obj\Debug\ArrayListSpeedTest.exe
+D:\_KURS\Git\CodeFolder\SpeedTests\ArrayListSpeedTest\obj\Debug\ArrayListSpeedTest.pdb

@@ -14,3 +14,16 @@ D:\_KURS\_Programming\SpeedTest\SpeedTest\obj\Debug\SpeedTest.pdb
 D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\bin\Debug\SpeedTest.exe.config
 D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\obj\Debug\SpeedTest.exe
 D:\_KURS\My_folder\Tests\ParallelProgramming01\SpeedTest\obj\Debug\SpeedTest.pdb
+D:\_KURS\Git\CodeFolder\SpeedTests\SpeedTest\bin\Debug\SpeedTest.exe.config
+D:\_KURS\Git\CodeFolder\SpeedTests\SpeedTest\bin\Debug\SpeedTest.exe
+D:\_KURS\Git\CodeFolder\SpeedTests\SpeedTest\bin\Debug\SpeedTest.pdb
+D:\_KURS\Git\CodeFolder\SpeedTests\SpeedTest\obj\Debug\SpeedTest.csprojResolveAssemblyReference.cache
+D:\_KURS\Git\CodeFolder\SpeedTests\SpeedTest\obj\Debug\MainWindow.baml
+D:\_KURS\Git\CodeFolder\SpeedTests\SpeedTest\obj\Debug\MainWindow.g.cs
+D:\_KURS\Git\CodeFolder\SpeedTests\SpeedTest\obj\Debug\App.g.cs
+D:\_KURS\Git\CodeFolder\SpeedTests\SpeedTest\obj\Debug\SpeedTest_MarkupCompile.cache
+D:\_KURS\Git\CodeFolder\SpeedTests\SpeedTest\obj\Debug\SpeedTest.g.resources
+D:\_KURS\Git\CodeFolder\SpeedTests\SpeedTest\obj\Debug\SpeedTest.Properties.Resources.resources
+D:\_KURS\Git\CodeFolder\SpeedTests\SpeedTest\obj\Debug\SpeedTest.csproj.GenerateResource.Cache
+D:\_KURS\Git\CodeFolder\SpeedTests\SpeedTest\obj\Debug\SpeedTest.exe
+D:\_KURS\Git\CodeFolder\SpeedTests\SpeedTest\obj\Debug\SpeedTest.pdb

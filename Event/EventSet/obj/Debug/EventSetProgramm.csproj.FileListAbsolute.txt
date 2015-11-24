@@ -4,3 +4,9 @@ D:\_KURS\My_folder\Tests\ParallelProgramming01\EventSet\bin\Debug\EventSet.pdb
 D:\_KURS\My_folder\Tests\ParallelProgramming01\EventSet\obj\Debug\EventSetProgramm.csprojResolveAssemblyReference.cache
 D:\_KURS\My_folder\Tests\ParallelProgramming01\EventSet\obj\Debug\EventSet.exe
 D:\_KURS\My_folder\Tests\ParallelProgramming01\EventSet\obj\Debug\EventSet.pdb
+D:\_KURS\Git\CodeFolder\Event\EventSet\bin\Debug\EventSet.exe.config
+D:\_KURS\Git\CodeFolder\Event\EventSet\bin\Debug\EventSet.exe
+D:\_KURS\Git\CodeFolder\Event\EventSet\bin\Debug\EventSet.pdb
+D:\_KURS\Git\CodeFolder\Event\EventSet\obj\Debug\EventSetProgramm.csprojResolveAssemblyReference.cache
+D:\_KURS\Git\CodeFolder\Event\EventSet\obj\Debug\EventSet.exe
+D:\_KURS\Git\CodeFolder\Event\EventSet\obj\Debug\EventSet.pdb
