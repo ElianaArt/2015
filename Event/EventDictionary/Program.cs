@@ -78,6 +78,7 @@ namespace EventDictionary
             EventContainer eventContainer = new EventContainer();
 
             eventContainer.Events += WriteHelloWorld;
+            eventContainer.Events += WriteHelloWorld2;
             eventContainer.SimulateNewEvent();
 
             Console.ReadLine();
@@ -88,6 +89,10 @@ namespace EventDictionary
             Console.WriteLine("hello, world!!!");
         }
 
+        private static void WriteHelloWorld2(object sender, DictionaryEventArgs e)
+        {
+            Console.WriteLine("hello, world!!!2222");
+        }
 
     }
 }
